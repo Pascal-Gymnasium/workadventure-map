@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.pascal-gymnasium.de\/aktuelles\/tablet-pilotprojekt-startet-am-pascal-gymnasium\/"
+                 "value":"http:\/\/edu4.one\/vip\/"
                 }],
          "type":"tilelayer",
          "visible":true,
